@@ -2,7 +2,7 @@
 
 ## Live Application URL
 
-The Application is deployed in http://localhost
+The Application is deployed in https://specbee.vercel.app/
 
 Click on the link to view the application
 
