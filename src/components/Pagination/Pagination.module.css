@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 25px;
+  padding-bottom: 20px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+  margin: 0 10px;
+  background: white;
+  border: none;
+}
+
+.active {
+  font-weight: bold;
+  background: #171a1f;
+  color: #fff;
+  border-radius: 50%;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
