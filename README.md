@@ -48,10 +48,10 @@ The Application Runs on **localhost:5173**
 ✅ Shows loader when data is loading\
 ✅ Hover effect for filters\
 ✅ Redux for state management\
-✅ 404 page
+✅ 404 page\
+✅ Unit test cases - **WIP**
 
 ## Improvements
-- Unit test cases
 - Lazy load images
 - Cache images using service worker
 - Shimmer UI for loading state
